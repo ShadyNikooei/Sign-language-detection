@@ -13,7 +13,6 @@ This project uses real-time hand gesture recognition to detect simple sign langu
 - Action logging (saved to `log.txt`)
 - Modular code with easy configuration via `config.json`
 
----
 
 ## Getting Started
 
@@ -68,7 +67,6 @@ A webcam window will open showing the live detection. The application will displ
 
 Press `ESC` to exit the application.
 
----
 
 ## Configuration (`config.json`)
 
@@ -97,7 +95,6 @@ Supported action types:
 - `message`: Print a custom message
 - `cmd`: Execute a system command
 
----
 
 ## File Structure
 
@@ -113,7 +110,6 @@ sign_language_project/
 └── log.txt             # Auto-generated on first run
 ```
 
----
 
 ## Notes
 
@@ -121,16 +117,11 @@ sign_language_project/
 - Only basic geometric analysis of hand landmarks is used.
 - You can expand the `classify_sign()` function in `vision.py` for more accurate or complex gestures.
 
----
-
 ## Requirements
 
 - Python 3.8+
 - Webcam
 - Tested on Windows and Linux
 
----
-
-## License
-
-This project is free to use for educational and non-commercial purposes.
+Programmer:
+Shady Nikooei - Computer Vision
