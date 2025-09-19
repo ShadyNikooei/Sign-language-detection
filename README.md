@@ -123,5 +123,6 @@ sign_language_project/
 - Webcam
 - Tested on Windows and Linux
 
-Programmer:
-Shady Nikooei - Computer Vision
+## Programmer
+
+**Shady Nikooei - Computer Vision**
