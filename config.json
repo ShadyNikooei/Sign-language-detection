@@ -1,0 +1,11 @@
+{
+  "A": { "type": "app", "value": "firefox" },
+  "B": { "type": "app", "value": "gedit" },
+  "C": { "type": "url", "value": "https://www.python.org" },
+  "D": { "type": "file", "value": "/home/user/Desktop/file.pdf" },
+  "E": { "type": "message", "value": "Sign E detected." },
+  "F": { "type": "folder", "value": "/home/user/Documents" },
+  "G": { "type": "audio", "value": "/home/user/Music/test.mp3" },
+  "H": { "type": "cmd", "value": "ls -l" },
+  "ABC": { "type": "cmd", "value": "echo 'Macro ABC triggered'" }
+}
